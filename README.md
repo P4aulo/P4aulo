@@ -1,12 +1,15 @@
-## Olá! Eu sou o Paulo
+## 👋 Olá! Eu sou o Paulo Henrique
 
--💻 Hoje eu trabalho com suporte ao usuário
--🎮Estudando C#
--
+-💻 Atualmente trabalho com **suporte ao usuário**  
+-🎯 Estudando **C#** e focado em transição para a área de desenvolvimento  
+-🎓 Estudante de Sistemas de Informação
+-🚀 Apaixonado por tecnologia, games e resolver problemas com código
 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
   ##
