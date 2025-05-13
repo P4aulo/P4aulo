@@ -6,6 +6,12 @@
 -🚀 Apaixonado por tecnologia, games e resolver problemas com código
 
 
+### 📊 Minhas estatísticas do GitHub:
+
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=P4aulo&show_icons=true&theme=tokyonight)
+
+---
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
